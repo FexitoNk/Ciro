@@ -1,7 +1,7 @@
 local Settings = {
     Slot = "Slot1"; -- The Slot That Will Get The Stat Boost
     NamekSlot = "Slot2"; -- The Namek Slot
-    Lag = 0; -- 0 - 0.2,if script doesnt work then try with VPN
+    Lag = 0.1; -- 0 - 0.2,if script doesnt work then try with VPN
     AutoStats = false;
     StatToUp = "Phys-Damage"; -- Will invest on this stat if autostats is true,Phys-Damage,Ki-Damage,Phys-Resist,Ki-Resist,Health-Max,Ki-Max,Speed
     ProMode = true; -- The script will be much faster,disable if doesn't work with you
