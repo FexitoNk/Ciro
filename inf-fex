@@ -1,3 +1,10 @@
+game.StarterGui:SetCore("SendNotification", {
+  Title = "NK INF STATS";
+  Text = "Made by: FexitoNk";
+  Icon = "rbxassetid://9181684181";
+  Duration = 10;
+})
+wait(0.3)
 Settings = {
     PointSlot = "Slot1"; -- Slot that will receive points
     NamekSlot = "Slot2"; -- Namekian slot that gives points
